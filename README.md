@@ -16,5 +16,4 @@ Também foram padronizados os nomes dos vendedores e agrupados os status em quat
 As vendas canceladas foram retiradas dos indicadores comerciais. Como a base não informa a moeda nem as datas de entrega, não foi possível definir a moeda dos valores ou calcular atrasos.
 Usei Canvas, agente com skill ou os dois?
 Usei os dois. Comecei com o ChatGPT e a prévia em HTML solicitada no Canvas. Depois, utilizei o agente Codex com a skill Sites para refinar o visual e implementar as mudanças até chegar à versão final.
-Onde acessar a dashboard?
 GitHub Pages: https://joaovictorsl-exe.github.io/Dashboard-Porsche/
